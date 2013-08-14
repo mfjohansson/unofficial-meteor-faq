@@ -234,7 +234,7 @@ This is not currently possible, unfortunately. You can set `process.env.X = Y` e
 ## Best practices
 
 ###What are the best practices for form handling?
-There is some good work in Mike Bannister's [forms package](http://forms.meteor.com/), however it's a little out of date right now. I imagine there will be something coming in core eventually.
+There is some good work in Mike Bannister's [forms package](http://forms.meteor.com/), however it's a little out of date right now. I imagine there will be something coming in core eventually. There is also the [autoform package](/aldeed/meteor-autoform).
 
 ###What is the best way to do file uploads?
 There's brief discussion [on telescope](http://telesc.pe/posts/ae8561f8-02c6-47da-81d3-4758ee6effa3). Also, there's a [filepicker smart package](https://atmosphere.meteor.com/package/filepicker).
